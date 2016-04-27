@@ -94,6 +94,7 @@
     <Compile Include="EmailKeyboard.cs" />
     <Compile Include="IEntryController.cs" />
     <Compile Include="IImageController.cs" />
+    <Compile Include="IMasterDetailPageController.cs" />
     <Compile Include="Internals\EvalRequested.cs" />
     <Compile Include="ExportEffectAttribute.cs" />
     <Compile Include="ExpressionSearch.cs" />
